@@ -4,11 +4,9 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 
 ## Overview
 
-**I did this solution without figma design because i do not have PRO Plan on Frontend Mentor, so this was very hard to make it PIXEL PERFECT**
-
 ### Links
 
-- Solution URL: [Click here](https://www.frontendmentor.io/solutions/profile-card-component-HyzIovSNc)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/profile-card-component-jS8pCadVKo)
 - Live Site URL: [Click here](https://iosebkhe.github.io/profile-card-component/)
 
 - Semantic HTML5 markup
