@@ -60,7 +60,7 @@ img {
 .user__avatar {
   position: absolute;
   transform: translateY(-50%);
-  border: 0.5rem solid var(--white-clr);
+  outline: 0.5rem solid var(--white-clr);
   border-radius: 50%;
 }
 
