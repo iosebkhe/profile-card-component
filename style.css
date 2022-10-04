@@ -25,6 +25,9 @@ html {
 body {
   height: 100vh;
   background-color: var(--bg-clr);
+  background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top -50rem left -40rem, bottom -70rem right -25rem;
   font-family: "Kumbh Sans", sans-serif;
   font-size: var(--font-size-normal);
 
