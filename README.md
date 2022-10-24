@@ -7,7 +7,7 @@ This is a solution to the [Profile card component](https://www.frontendmentor.io
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/profile-card-component-jS8pCadVKo)
-- Live Site URL: [Click here](https://iosebkhe.github.io/profile-card-component/)
+- Live Site URL: [Click here](https://profilecard-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
